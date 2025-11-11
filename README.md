@@ -6,3 +6,4 @@ Ejemplo de un repositorio hecho en el laboratorio de Fundamentos de la Programac
 
 test test test
 
+comprobando que funciona el "pull"
